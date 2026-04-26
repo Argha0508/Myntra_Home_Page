@@ -2,7 +2,7 @@ Myntra Clone
 A fully responsive, front-end clone of the Myntra homepage. This project focuses on modern web layout techniques, including CSS Flexbox and responsive design principles.
 
  Live Demo
-Click here to view the live project
+Click here to view the live project : https://argha0508.github.io/Myntra_Home_Page/
 
  Tech Stack
 HTML5: Semantic structure for e-commerce layouts.
