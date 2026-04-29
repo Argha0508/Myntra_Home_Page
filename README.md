@@ -1,5 +1,5 @@
-Myntra Home Page Clone
-A fully responsive, front-end clone of the Myntra homepage. This project focuses on modern web layout techniques, including CSS Flexbox and responsive design principles.
+Myntra Home Page Clone: 
+  A fully responsive, front-end clone of the Myntra homepage. This project focuses on modern web layout techniques, including CSS Flexbox and responsive design principles.
 
  Live Demo
 Click here to view the live project : https://argha0508.github.io/Myntra_Home_Page/
@@ -26,4 +26,3 @@ Responsive Design: Implemented media queries to resolve layout issues on smaller
 File Management: Standardized directory naming conventions (category_images) to ensure cross-platform compatibility on Linux-based servers.
 
 Git Workflow: Learned version control basics by managing and updating a repository.
-Author : Argha Bisoi
